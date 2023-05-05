@@ -1,0 +1,42 @@
+#all{
+   /* background-color:   rgb(16, 16, 128 ) ; */
+   background-image: linear-gradient(to right, rgb(40, 4, 83) , rgb(103, 22, 103));
+   height: 100vh;
+   width: 100vw;
+   background-size: auto;
+   
+}
+/* #box{
+   height: 30vh;
+   width: 30vw;
+   padding-bottom: 80px;
+} */
+#col{
+   color: orangered;
+}
+.drop{
+   width: 20vw;
+  /* text-align: center; */
+  padding-bottom: 80px;
+}
+#but{
+   padding-left: 220px;
+   padding-top: 20px;
+   /* border-radius: 50px; */
+}
+#hai{
+   color: blue;
+}
+#drop{
+   padding-left: 110px;
+}
+.auth{
+   /* padding-left: 200px; */
+   text-align: center;
+   /* text-align: right; */
+}
+/* .book{
+   display: flex;
+   flex-direction: column;
+   
+} */
